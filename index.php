@@ -1,7 +1,7 @@
 <?php
 
 
-echo "Manual push";
+echo "Its time to auto push on git hub account to cpanel account";
 
 
 ?>
