@@ -1,7 +1,7 @@
 <?php
 
 
-echo "hello pakistan ss";
+echo "Manual push";
 
 
 ?>
